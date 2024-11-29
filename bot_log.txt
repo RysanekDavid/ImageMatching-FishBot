@@ -1,0 +1,1960 @@
+Bot spuštìn
+Bot èeká na pøíkazy...
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+04:31:21 - Bot spuštìn s admin právy
+04:31:32 - Pøijat pøíkaz: F1
+04:31:32 - Simuluji klávesu: F1
+04:31:32 - Pøíkaz dokonèen: F1
+04:31:34 - Pøijat pøíkaz: F2
+04:31:34 - Simuluji klávesu: F2
+04:31:35 - Pøíkaz dokonèen: F2
+04:31:39 - Pøijat pøíkaz: F2
+04:31:39 - Simuluji klávesu: F2
+04:31:40 - Pøíkaz dokonèen: F2
+04:31:43 - Pøijat pøíkaz: F1
+04:31:43 - Simuluji klávesu: F1
+04:31:43 - Pøíkaz dokonèen: F1
+04:31:45 - Pøijat pøíkaz: F2
+04:31:45 - Simuluji klávesu: F2
+04:31:45 - Pøíkaz dokonèen: F2
+04:32:16 - Pøijat pøíkaz: F2
+04:32:16 - Simuluji klávesu: F2
+04:32:17 - Pøíkaz dokonèen: F2
+04:38:40 - Pøijat pøíkaz: F1
+04:38:40 - Simuluji klávesu: F1
+04:38:41 - Pøíkaz dokonèen: F1
+04:38:42 - Pøijat pøíkaz: F2
+04:38:42 - Simuluji klávesu: F2
+04:38:43 - Pøíkaz dokonèen: F2
+04:38:44 - Pøijat pøíkaz: F2
+04:38:44 - Simuluji klávesu: F2
+04:38:45 - Pøíkaz dokonèen: F2
+04:38:47 - Pøijat pøíkaz: F1
+04:38:47 - Simuluji klávesu: F1
+04:38:47 - Pøíkaz dokonèen: F1
+04:38:49 - Pøijat pøíkaz: F2
+04:38:49 - Simuluji klávesu: F2
+04:38:49 - Pøíkaz dokonèen: F2
+04:38:51 - Pøijat pøíkaz: F2
+04:38:51 - Simuluji klávesu: F2
+04:38:52 - Pøíkaz dokonèen: F2
+04:38:53 - Pøijat pøíkaz: F1
+04:38:53 - Simuluji klávesu: F1
+04:38:54 - Pøíkaz dokonèen: F1
+04:38:55 - Pøijat pøíkaz: F2
+04:38:55 - Simuluji klávesu: F2
+04:38:56 - Pøíkaz dokonèen: F2
+04:38:57 - Pøijat pøíkaz: F2
+04:38:57 - Simuluji klávesu: F2
+04:38:58 - Pøíkaz dokonèen: F2
+04:39:00 - Pøijat pøíkaz: F1
+04:39:00 - Simuluji klávesu: F1
+04:39:00 - Pøíkaz dokonèen: F1
+04:39:01 - Pøijat pøíkaz: F2
+04:39:01 - Simuluji klávesu: F2
+04:39:02 - Pøíkaz dokonèen: F2
+04:39:04 - Pøijat pøíkaz: F2
+04:39:04 - Simuluji klávesu: F2
+04:39:05 - Pøíkaz dokonèen: F2
+04:39:06 - Pøijat pøíkaz: F1
+04:39:06 - Simuluji klávesu: F1
+04:39:07 - Pøíkaz dokonèen: F1
+04:39:08 - Pøijat pøíkaz: F2
+04:39:08 - Simuluji klávesu: F2
+04:39:09 - Pøíkaz dokonèen: F2
+04:39:10 - Pøijat pøíkaz: F2
+04:39:10 - Simuluji klávesu: F2
+04:39:11 - Pøíkaz dokonèen: F2
+04:39:13 - Pøijat pøíkaz: F1
+04:39:13 - Simuluji klávesu: F1
+04:39:13 - Pøíkaz dokonèen: F1
+04:39:14 - Pøijat pøíkaz: F2
+04:39:14 - Simuluji klávesu: F2
+04:39:15 - Pøíkaz dokonèen: F2
+04:39:17 - Pøijat pøíkaz: F2
+04:39:17 - Simuluji klávesu: F2
+04:39:17 - Pøíkaz dokonèen: F2
+04:39:19 - Pøijat pøíkaz: F1
+04:39:19 - Simuluji klávesu: F1
+04:39:20 - Pøíkaz dokonèen: F1
+04:39:21 - Pøijat pøíkaz: F2
+04:39:21 - Simuluji klávesu: F2
+04:39:22 - Pøíkaz dokonèen: F2
+04:39:23 - Pøijat pøíkaz: F2
+04:39:23 - Simuluji klávesu: F2
+04:39:24 - Pøíkaz dokonèen: F2
+04:39:26 - Pøijat pøíkaz: F1
+04:39:26 - Simuluji klávesu: F1
+04:39:26 - Pøíkaz dokonèen: F1
+Bot started
+Bot waiting for commands...
+Received command: F1
+Sending F1
+F1 sent
+Received command: F2
+Sending F2
+F2 sent
+Received command: F2
+Sending F2
+F2 sent
+Received command: F1
+Sending F1
+F1 sent
+Received command: F2
+Sending F2
+F2 sent
+Received command: F2
+Sending F2
+F2 sent
+Bot spuštìn
+Bot èeká na pøíkazy...
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Bot spuštìn
+Bot èeká na pøíkazy...
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Bot spuštìn
+Bot èeká na pøíkazy...
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Bot spuštìn
+Bot èeká na pøíkazy...
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Bot spuštìn
+Bot èeká na pøíkazy...
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Bot spuštìn
+Bot èeká na pøíkazy...
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Bot spuštìn
+Bot èeká na pøíkazy...
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Bot spuštìn
+Bot èeká na pøíkazy...
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Bot spuštìn
+Bot èeká na pøíkazy...
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Bot spuštìn
+Bot èeká na pøíkazy...
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F2
+Odesílám F2
+F2 odesláno
+Pøijat pøíkaz: F1
+Odesílám F1
+F1 odesláno
